@@ -1,5 +1,20 @@
-# Hello_World
+# Project Title
+*Sample project file*
 
-Hello,
+## Description
+*I created this file to practice using Github*
 
-I'm Alec. I am a student at the University of Iowa.
+## Operating the Program
+*Here I would explain to others how to run my program*
+
+## Files Used
+*A list of the files used to create the program*
+- 
+-
+-
+
+## Additional Documentation
+*Any extra documentation would go here*
+
+## Versioning
+*Here is where I would describe any versions of the code as it was constructed*
